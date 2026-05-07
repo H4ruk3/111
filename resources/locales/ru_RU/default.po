@@ -1,0 +1,11 @@
+msgid "Login"
+msgstr "Войти"
+
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+msgid "Programs"
+msgstr "Программы"
+
+msgid "Diary"
+msgstr "Дневник"
